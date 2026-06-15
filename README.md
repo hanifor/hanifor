@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Hanifi Ormancı</h1>
+<h1 align="center">Merhaba 👋, Ben Hanifi Ormancı</h1>
 <h3 align="center">Türkiye'den tutkulu bir oyun geliştiricisiyim</h3>
 
 <p align="left"> 
@@ -10,16 +10,14 @@
 </p>
 
 - 🌱 Şu anda **Siber Güvenlik** öğreniyorum
-- 📫 Bana nasıl ulaşabilirsiniz: **hanifiormanci01@gmail.com**
+- 📫 Bana nasıl ulaşabilirsiniz: **hanifordeveloper@gmail.com**
 
-<h3 align="left">Bağlantı kurun:</h3>
 <p align="left"></p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
