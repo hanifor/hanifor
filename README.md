@@ -2,9 +2,9 @@
 <h3 align="center">Türkiye'den tutkulu bir oyun geliştiricisiyim</h3>
 
 
-<p align="left">
-  [![Hanifi's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hanifor)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifor&label=Profile%20views&color=0e75b6&style=flat" alt="hanifor" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanifor" alt="hanifor" /></a> </p>
 
 - 🌱 Şu anda **Siber Güvenlik** öğreniyorum
 - 📫 Bana nasıl ulaşabilirsiniz: **hanifordeveloper@gmail.com**
