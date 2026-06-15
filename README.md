@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-</p>
-
 <h1 align="center">Merhaba 👋, ben Hanifi Ormancı</h1>
 <h3 align="center">Türkiye'den tutkulu bir oyun geliştiricisiyim</h3>
 
