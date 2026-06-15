@@ -1,12 +1,9 @@
 <h1 align="center">Merhaba 👋, Ben Hanifi Ormancı</h1>
 <h3 align="center">Türkiye'den tutkulu bir oyun geliştiricisiyim</h3>
 
-<p align="left"> 
-  <img src="https://avatars.githubusercontent.com/u/105877866?v=4" alt="hanifor" /> 
-</p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanifor" alt="hanifor" /></a> 
+<p align="left">
+  [![Hanifi's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hanifor)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 - 🌱 Şu anda **Siber Güvenlik** öğreniyorum
